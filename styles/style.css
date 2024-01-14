@@ -1,0 +1,28 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+nav>ul {
+    display: flex;
+}
+nav li {
+    list-style: none;
+    margin-right: 34px;
+    font-weight: 600;
+    font-size: 1rem;
+}
+nav li a {
+    text-decoration: none;
+    color: #3A3A3A;
+}
+.section-title {
+    color: #3A3A3A;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.banner {
+    display: flex;
+}
