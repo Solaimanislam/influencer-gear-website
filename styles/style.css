@@ -178,6 +178,22 @@ nav li a {
     font-size: 1rem;
     margin-right: 80px;
 }
+footer {
+    background: #0A0826;
+    text-align: center;
+    
+    padding-top: 40px;
+    
+}
+.footer-info {
+}
+.footer-title {
+    color: #FFF;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 0;
+
+}
 
 /* Responsive small device */
 @media screen and (max-width: 576px) {
